@@ -25,6 +25,16 @@ const SideNav = () => {
                 <li>Paracetamal Syrup <span>x</span></li>
                 
                </div>
+    </div>
+               <div className="list">
+                <h2 className='category'> Business Type</h2>
+                <li><span>x</span></li>
+                <li>WholeSaler <span>x</span></li>
+                <li>Retailer <span>x</span></li>
+                <li>Manufacturer<span>x</span></li>
+                <li>Exporter <span>x</span></li>
+                
+               </div>
             </div>
         </>
   )
