@@ -1,0 +1,38 @@
+
+.side_menu{
+    background-color: #fff;   border-radius: 5px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+}
+.list{
+}
+.category{
+    background-color: #d9d9d9;
+    margin-bottom: 5px;
+    text-align: center;
+    padding: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+ 
+}
+.side_menu li{
+    padding: 5px;
+    margin: 0 10px;
+    list-style: none;
+    margin-bottom: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.side_menu span{
+    color: #fff;
+}
+.side_menu li:last-child{
+  
+}
+.side_menu li:hover{
+    background-color: #32b8ad;
+    color: #fff;
+}

@@ -1,0 +1,53 @@
+.main_card{
+    height: auto;
+    width: 340px;
+    border: 2px solid #0000003a;
+    border-radius: 10px;
+    
+    margin: 10px;
+    float: left;
+    border-bottom:15px solid rgb(111, 13, 13);
+}
+.image{
+    height: 240px;
+    width: 320px;
+    margin:10px auto;
+}
+.image img{
+ width: 100%;
+ height: 100%;
+ object-fit: cover;
+    
+} 
+.content{
+    text-align: center;
+}
+.header_content{
+    font-size: 20px;
+    font-weight: bold;
+}
+.price{
+    margin-bottom: 25px;
+}
+.price_color{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+.stripe_color{
+    color: grey;
+}
+.company_location{
+    color: gray;
+}
+.contact_btn{
+    text-align: center;
+    color: aqua;
+    font-weight: 900;
+    font-size: 30px;
+    cursor: pointer;
+    padding: 10px 0;
+}
+.location{
+    margin-bottom: 10px;
+}
